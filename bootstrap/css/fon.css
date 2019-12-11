@@ -1,0 +1,15 @@
+.barra{
+	height: 5px;
+	background-color: red;
+	width: 0%;
+	margin-right: -5px 0px 0px;
+	border:none;
+	z-index: 1;
+	position: relative;
+}
+.barra.anima{
+	-webkit-transition:width 4.25s linear;
+	-moz-transition:width 4.25s linear;
+	-o-transition:width 4.25s linear;
+	transition:width 4.25s linear;
+}

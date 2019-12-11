@@ -1,0 +1,211 @@
+body{
+	background-color:#F0F8FF;
+	width: 1000px;
+	margin-left: 13%;
+	margin-right: 2%
+}
+h1{
+	font-family: sans-serif;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+h2{
+	font-family: sans-serif;
+	font-size: 15px;
+	text-align: center;
+	color: white;
+}
+h3{
+	font-family: sans-serif;
+	font-size: 15px;
+	text-align: center;
+	color: white;
+}
+main{
+	width: 1000px;
+}
+li{
+	margin-top: 1%;
+	width: 20%;
+	display: inline;
+	text-align: center;
+	
+}
+
+nav{
+	width: 1000px;
+}
+ul{
+	
+}
+nav ul{
+	width: 800px;
+	display: inline;
+}
+
+.div nav div{
+	display: inline;
+}
+.container1{
+	background-image: linear-gradient(to right,#1a1a1a,#7e7d7e);
+	width: 1000px;
+	height: 90px;
+}
+
+.logoSite{
+	width: ;
+	height: 100px;
+	position: absolute;
+	float: left;
+	
+	left: 60px;
+}
+.barraBusca{
+	height:25px;
+	width: 450px;
+	position: absolute;
+	top: 35px;
+	left: 250px;		
+}
+.sacola{
+	height: 30px;
+	width: 50px;
+	position: absolute;
+	top: 10px;
+	left: 950px;
+	
+}
+.botao{
+	width: 80px;
+	height: 25px;
+	background-color: black;
+	color: white;
+	position: absolute;
+	top: 35px;
+	left: 720px;
+}
+.barradeBusca{
+	margin-top: 1%;
+	width: 90px;
+}
+
+.frete{
+	margin-top: 6px;
+	width: 800px;
+	height: 50px;
+	display: inline;
+	position: absolute;
+	background-color: #7e7d7e;
+}
+.oferta{
+	
+	width: 195px;
+	height: 100%;
+	display: inline;
+	position: absolute;
+	top: 0px;
+	background-color: #7e7d7e;
+	margin-left: 805px;
+	
+}
+.rodape{
+	background-image: linear-gradient(to right,#1a1a1a,#7e7d7e);
+	width: 1000px;
+	height: 200px;
+	margin-top: 20px;
+}
+
+.mostruario{
+
+	margin-top: 70px;
+	width: 1000px;
+	height: 600px;
+	background-color: #7e7d7e;
+}
+.peça1{
+	width: 230px;
+	height: 275px;
+	background: white;
+	position:relative;
+	top: 20px;
+	left: 20px; 
+}
+.peça2{
+	width: 230px;
+	height: 275px;
+	background: white;
+	position:relative;
+	top: 40px;
+	left: 20px; 
+}
+.peça3{
+	width: 230px;
+	height: 275px;
+	background: white;
+	position:relative;
+	top: -530px;
+	left: 270px; 
+}
+.peça4{
+	width: 230px;
+	height: 275px;
+	background: white;
+	position:relative;
+	top: -510px;
+	left: 270px; 
+}
+.peça5{
+	width: 230px;
+	height: 275px;
+	background: white;
+	position:relative;
+	top: -1080px;
+	left: 515px; 
+}
+.peça6{
+	width: 230px;
+	height: 275px;
+	background: white;
+	position:relative;
+	top: -1060px;
+	left: 515px; 
+}
+.peça7{
+	width: 230px;
+	height: 275px;
+	background: white;
+	position:relative;
+	top: -1630px;
+	left: 760px; 
+}
+.peça8{
+	width: 230px;
+	height: 275px;
+	background: white;
+	position:relative;
+	top: -1610px;
+	left: 760px; 
+}
+
+.m{
+	text-align: center;
+	font-family: sans-serif ;
+	font-size: 20px;
+	background-color: black;
+	width: 780px;
+}
+.f{
+	text-align: center;
+	font-family: sans-serif ;
+	font-size: 20px;
+	background-color: black;
+	width: 780px;
+}
+.i{
+	text-align: center;
+	font-family: sans-serif ;
+	font-size: 20px;
+	background-color: black;
+	width: 780px;
+}
